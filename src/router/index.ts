@@ -48,6 +48,6 @@ const router = createRouter({
       component: () => import("../views/Contact.vue"),
     }
   ],
-});
+}  as RouterOptions);
 
 export default router;
