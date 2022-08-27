@@ -6,6 +6,10 @@ const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
+      path: "/",
+      redirect: '/airecognize'
+    },
+    {
       path: "/airecognize",
       name: "AI識別",
       component: AiRecognize,
