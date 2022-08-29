@@ -32,6 +32,7 @@ import Navigation from "../components/Navigation.vue";
     width: 90%;
     margin: 50px auto;
     justify-content: space-between;
+    flex-flow: row wrap;
 }
 
 .left {
