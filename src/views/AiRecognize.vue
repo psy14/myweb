@@ -4,7 +4,7 @@ import play2 from '@/assets/play2.gif'
 </script>
 
 <template>
-    <div class="main">
+    <div class="main animate__animated animate__backInLeft">
         <div class="left">
             <div class="video">
                 <el-image :src="play2" />
