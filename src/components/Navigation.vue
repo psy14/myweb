@@ -24,8 +24,8 @@ export default defineComponent({
   <div class="main">
     <div class="menu">
       <RouterLink to="/airecognize" :class="{'tab-chooose': tabChooser('airecognize')}">AI識別</RouterLink>
-      <RouterLink to="/autobetting" :class="{'tab-chooose': tabChooser('autobetting')}">自動游戲</RouterLink>
-      <RouterLink to="/game" :class="{'tab-chooose': tabChooser('game')}">游戲開發</RouterLink>
+      <RouterLink to="/autobetting" :class="{'tab-chooose': tabChooser('autobetting')}">IM開發</RouterLink>
+      <RouterLink to="/game" :class="{'tab-chooose': tabChooser('game')}">彩票/游戲</RouterLink>
       <RouterLink to="about" :class="{'tab-chooose': tabChooser('about')}">關於我</RouterLink>
     </div>
   </div>

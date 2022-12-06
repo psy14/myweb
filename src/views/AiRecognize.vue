@@ -1,13 +1,12 @@
 <script setup lang="ts">
 import Navigation from "../components/Navigation.vue";
-import play2 from '@/assets/play2.gif'
 </script>
 
 <template>
     <div class="main animate__animated animate__backInLeft">
         <div class="left">
             <div class="video">
-                <el-image :src="play2" />
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/3o_WYAsav0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
         <div class="right">
