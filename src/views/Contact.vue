@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <div class="contact animate__animated animate__swing">
-        telegram: +95 9759718207
+        telegram: @wowwow08
     </div>
   </div>
 </template>
