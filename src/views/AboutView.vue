@@ -18,7 +18,7 @@
 
         <div class="tech">聯係方式:<br/>
           <div class="tech-item">
-            telegram: +95 9759718207
+            telegram: @wowwow08
           </div>
         </div>
       </div>
