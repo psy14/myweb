@@ -1,12 +1,15 @@
 <script setup lang="ts">
 import Navigation from "../components/Navigation.vue";
+import img1 from '../assets/result1.jpg';
+import img2 from '../assets/result2.jpg';
 </script>
 
 <template>
     <div class="main animate__animated animate__backInLeft">
         <div class="left">
             <div class="video">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/3o_WYAsav0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <el-image :src="img1"></el-image>
+              <el-image :src="img2"></el-image>
             </div>
         </div>
         <div class="right">
