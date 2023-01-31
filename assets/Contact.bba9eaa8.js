@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,p as _,b as c,d as s}from"./index.27b0ca49.js";const d={},n=e=>(_("data-v-42905d6b"),e=e(),c(),e),i={class:"about"},p=n(()=>s("div",{class:"contact animate__animated animate__swing"}," telegram: @wowwow08 ",-1)),r=[p];function l(e,m){return o(),a("div",i,r)}const f=t(d,[["render",l],["__scopeId","data-v-42905d6b"]]);export{f as default};
